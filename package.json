@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-web-app",
+  "description": "NodejsWebApp",
+  "version": "0.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node public/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "async": "latest"
+  },
+  "keywords": [],
+  "author": {
+    "name": "",
+    "email": "webmaster@mydomain.local",
+    "url": "http://mydomain.local"
+  },
+  "license": "MIT",
+  "homepage": "https://mydomain.local"
+}
