@@ -10,6 +10,9 @@ build
 Dockerfile
 Makefile
 docker-compose.yml
+.dockerignore
+README.md
+LICENSE
 
 # NPM dependencies
 node_modules
